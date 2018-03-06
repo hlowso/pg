@@ -59,7 +59,7 @@ const knexInsert = (first, last, date) => {
   });
 };
   
-// knexInsert('Randy', 'Marsh', new Date());
+knexInsert('Randy', 'Marsh', new Date());
 // knexLookup('Marsh');
 
 
