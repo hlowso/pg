@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hlowso/pg#readme",
   "dependencies": {
+    "knex": "^0.14.4",
     "pg": "^7.4.1"
   }
 }
